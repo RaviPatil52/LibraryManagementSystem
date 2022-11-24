@@ -1,0 +1,27 @@
+.add-users{
+    /* background: url("https://cdn.pixabay.com/photo/2015/10/08/11/31/learn-977543_960_720.jpg"); */
+    background-color: rgb(222, 228, 228);
+    width: 500px;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+   padding: 20px;
+}
+.add-users2 h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 26px;
+}
+#section{
+    background: url("https://cdn.pixabay.com/photo/2017/11/12/22/50/people-2944065_960_720.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: url("https://cdn.pixabay.com/photo/2015/10/08/11/31/learn-977543_960_720.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

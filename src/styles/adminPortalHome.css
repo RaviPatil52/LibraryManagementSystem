@@ -1,0 +1,65 @@
+.admin-portal-home {
+   height:35vh;
+   margin: 90px;
+  
+    background: url(" https://www.greenwichlibrary.org/wp-content/uploads/2021/11/LinkedInLearning-1024x400.jpg");
+   /* background-position: center; */
+   background-size: cover;
+   padding: 20vh;
+  }
+
+.home-div1{
+  background-color: rgb(197, 211, 211);
+ height: 70vh;
+ padding: 40px;
+ 
+}
+section{
+  display: flex;
+  flex-direction: column;
+  
+ /* height: 300vh; */
+}
+.section1{
+  margin-bottom: 300px;
+}
+.section2{
+  margin-bottom: 300px;
+}
+.section3{
+  margin-bottom: 300px;
+}
+/* .home-div2{
+  background-color: aqua;
+ height: 70vh;
+ padding: 40px;
+} */
+.div1 h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: lighter;
+}
+.div1 h2{
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+}
+hr{
+  border: 0;
+  border-top: 2px solid rgb(121, 82, 11);
+  width: 155px;
+  margin-bottom: 8px;
+}
+h2{
+  margin-bottom: 12px;
+}
+p{
+  margin-bottom: 25px;
+}
+.div1 p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+.explore{
+  font-weight: lighter;
+  margin-bottom: 20px;
+}

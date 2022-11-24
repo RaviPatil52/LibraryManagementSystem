@@ -1,0 +1,11 @@
+.adminLogin{
+background: url("https://st2.depositphotos.com/1035451/46198/v/450/depositphotos_461980370-stock-illustration-artificial-intelligence-big-data-concept.jpg");
+background-position: center;
+background-size: cover;
+height: 100vh;
+display: flex;
+}
+
+/* .userForm{
+    box-shadow: 0px 10px 60px red;
+} */

@@ -1,0 +1,60 @@
+.userLogin {
+  background: url("https://thumbs.dreamstime.com/b/digital-library-online-education-concept-laptop-computer-colorful-books-d-rendering-online-library-concept-technology-128803573.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.userForm{
+    background-color: rgb(182, 202, 202);
+    width: 450px;
+   height: 300px;
+   border-radius: 12px;
+   box-shadow: 0px 10px 60px rgba(255, 255, 255, 0.863);
+   margin: auto;
+   padding: 20px;
+
+ 
+}
+.userForm h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.user-form{
+    padding: 20px;
+
+}
+.btn{
+    background-color: rgba(138, 138, 241, 0.904);
+    border: none;
+    padding: 10px;
+     margin-right: 10px;
+    border-radius: 9px;
+    color: white;
+    font-weight: bold;
+    
+}
+.btn:hover{
+    background-color: rgb(101, 101, 231);
+    transition: 0.6s;
+    
+}
+input{
+
+    width: 370px;
+    padding: 12px;
+    border: none;
+}
+
+.user-form1{
+margin-bottom: 10px;
+
+}
+
+.user-form2{
+    margin-bottom: 10px;
+}
+
